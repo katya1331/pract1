@@ -9,10 +9,10 @@ int main()
 {
     //4
     int x, y,res;
-    std::cout << "x=(x>0)\n";
+    std::cout << "x= (x>0)\n";
     cin >> x;
     if (x > 0) {
-        std::cout << "y=(y>0)\n";
+        std::cout << "y= (y>0)\n";
         cin >> y;
         if (y > 0) {
             res = x / y;
@@ -23,7 +23,7 @@ int main()
     cout << "X>0!!!!" << endl;
     //21
     int c;
-    std::cout << "c=(c>0)\n";
+    std::cout << "c= (c>0)\n";
     cin >> c;
     if (c <= 0) {
         cout << "C>0!";
